@@ -18,7 +18,7 @@
 > 6. Функция расчета сколько игр продались лучше в Европе, чем в Японии.
 > 7. Функция печати ответов на все 5 вопросов.
 
-![dag](https://github.com/Lanfrena/Project_Airflow_game_sales/blob/main/Dag%20in%20Airflow.png?raw=true)
+![dag](https://github.com/Lanfrena/Project_Airflow_game_sales/blob/main/Dag%20game_sales.png?raw=true)
 ![graph](https://github.com/Lanfrena/Project_Airflow_game_sales/blob/main/Graph%20in%20Airflow.png)
 ![result](https://github.com/Lanfrena/Project_Airflow_game_sales/blob/main/Dag%20result%20in%20Airflow.png?raw=true)
 
